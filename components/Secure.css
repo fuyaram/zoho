@@ -1,0 +1,50 @@
+.containerbigbo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 400px;
+    width: 100%;
+  }
+  
+  .contentlelo {
+    width: 100%;
+    text-align: center;
+    padding: 40px;
+    border-radius: 10px;
+  }
+  
+  .logordx {
+    width: 150px; /* Adjust the logo size as needed */
+    margin-bottom: 20px;
+  }
+  
+  .title56 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .paragraph96 {
+    font-size: 18px;
+    margin-bottom: 20px;
+  }
+  
+  .watch-button {
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .watch-button:hover {
+    background-color: #45a049;
+  }
+  
+  .icon890 {
+    width: 20px; /* Adjust the movie icon size as needed */
+    margin-left: 10px;
+  }
+  

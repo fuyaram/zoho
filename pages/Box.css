@@ -1,0 +1,43 @@
+
+.border-box {
+    margin-left: 66%;
+    margin-top: -28%;
+    width: 400px;
+    height: 1000px;
+    border: 1px solid black;
+    position: relative;
+    
+  }
+  
+  #boxtitle{
+    text-align: center;
+  }
+  .categories {
+    height: 30px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding: 20px;
+
+  }
+  
+  .category-box {
+    background-color: #e3dddd;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
+  .category-image {
+    width: 50px; /* Adjust the width of your image */
+    height: 50px; /* Adjust the height of your image */
+  }
+  
+.arrow-icon{
+  color: #000;
+}
+  
+  /* Add responsive styles using media queries if necessary */
+  

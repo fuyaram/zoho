@@ -1,0 +1,77 @@
+.opppp{
+    margin-left: 20%;
+    z-index: 9999;
+}
+.container567 {
+    background-color: rgb(255, 255, 255);
+    width: 1700px;
+   margin-left: -40px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  #hgf{
+    color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left: 40px;
+    font-size: 20px;
+  }
+  .god{
+    width: 200px;
+    height: 200px;
+  }
+  .left {
+    flex: 1;
+  }
+  .hjd{
+    width: 100px;
+    height: auto;
+    margin-left: 30px;
+  }
+  .right {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .right img {
+    width: 100px; /* Adjust the width of your logo */
+    height: auto;
+  }
+  
+  .right p {
+    margin: 20px 0;
+  }
+  
+  .kolly {
+    background-color: #ff0000;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+.kolly:hover{
+  background-color: blue;
+
+}
+  
+  .arrow-icon {
+    width: 10px;
+    height: 10px;
+    border-left: 2px solid white;
+    border-bottom: 2px solid white;
+    transform: rotate(-45deg);
+    margin-left: 5px;
+  }
+  

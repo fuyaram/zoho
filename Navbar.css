@@ -1,0 +1,161 @@
+body {
+  margin: 0%;
+}
+.fuck{
+  margin: 0%;
+  margin-top: -25px;
+  width: 100%;
+}
+.navbar {
+
+  margin-top: -60px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  background-color: #ffffff;
+  color: white;
+}
+
+
+.logo {
+  width: auto;
+  height: 120px;
+}
+
+.auth-button {
+  font-size: 15px;
+  background-color: transparent;
+  border: 1px solid rgb(210, 34, 34);
+  color: rgb(208, 22, 22);
+  padding: 10px 20px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.auth-button:hover {
+  background-color: rgb(253, 0, 0);
+  color: #ffffff;
+}
+.menu-container {
+  
+  display: flex;
+  justify-content: space-around;
+  margin: 20px;
+}
+
+.menu-list {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  color: black;
+}
+
+.menu-item {
+  font-size: 22px;
+  margin: 30px;
+  cursor: pointer;
+  position: relative;
+}
+
+.submenu {
+  list-style: none;
+  padding: 0;
+  display: none;
+  position: absolute;
+  width: 200px;
+  height: auto;
+  background-color: #ffffff;
+  border: 1px solid #ccc;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+.menu-item:hover .submenu {
+  display: block;
+}
+
+.submenu-item {
+  padding: 10px;
+}
+.submenu-item:hover{
+  background-color: beige;
+  color: rgb(255, 98, 0);
+}
+@media screen and (max-width: 768px) {
+  .menu-container {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .menu-list {
+    flex-direction: column;
+  }
+
+  .menu-item {
+    margin: 10px 0;
+  }
+
+  .submenu {
+    width: 100%;
+    left: 0;
+    right: 0;
+  }
+}
+
+
+.cust {
+  text-decoration: none; /* Remove default underline */
+  color: black; /* Set custom black color */
+}
+
+.navbar89 {
+  
+  margin-top: -65px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #e6e9ed;
+  color: #000000;
+  padding: 10px 20px;
+}
+
+.navbar-item909 {
+  display: flex;
+  align-items: center;
+  margin-right: 20px;
+  cursor: pointer;
+  height: 40px;
+}
+
+.icon {
+  margin-right: 10px;
+   font-size: 25px;
+}
+
+.search-bar {
+  display: flex;
+  align-items: center;
+}
+
+input[type="text"] {
+  padding: 5px;
+  margin-right: 5px;
+}
+
+.search-icon {
+  cursor: pointer;
+}
+.search-icon{
+  color: blue;
+}
+.search-bar{
+ border-color: solid 2px red;
+ color: aqua;
+}
+.j{
+  border-color: solid 2px red;
+ color: aqua;
+ background-color: rgb(255, 255, 255);
+}
+
+
+

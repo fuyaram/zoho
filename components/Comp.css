@@ -1,0 +1,45 @@
+.container4567 {
+    height: 400px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .klpou{
+    width: 100px;
+    height: auto;
+  }
+  .top-title909 {
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+    text-align: center;
+    padding: 20px;
+    background-color: #f0f0f0;
+    width: 100%;
+  }
+  #jkllll{
+    color: red;
+  }
+  .bottom-title909{
+    font-size: 15px;
+    font-weight: bold;
+    color: #333;
+    text-align: center;
+    padding: 20px;
+    background-color: #f0f0f0;
+    width: 100%;
+  }
+  .image-container78 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+  }
+  
+  .image78 {
+    max-width: 100px; /* Adjust the width of your images as needed */
+    margin: 0 10px; /* Adjust the margin between images as needed */
+  }
+  

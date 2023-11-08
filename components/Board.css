@@ -1,0 +1,55 @@
+#lelo{
+    font-size: 70px;
+    margin-left: 150px;
+    z-index: 1;
+    color: rgb(255, 255, 255);
+    margin-top: -0%;
+}
+.iop{
+    background-color: rgb(24, 91, 109);
+}
+#ort{
+    color: rgb(255, 255, 255);
+    margin-left: 150px;
+    font-size: 40px;
+}
+#ortt{
+    color:rgb(255, 255, 255);
+    margin-left: 35rem;
+    font-size: 40px;
+    margin-top: -9.2rem;
+}
+#orttt{
+    color: rgb(255, 255, 255);
+    margin-left: 150px;
+    font-size: 40px;
+}
+#ortttt{
+    color: rgb(255, 255, 255);
+    margin-left: 35rem;
+    font-size: 40px;
+    margin-top: -9.2rem;
+}
+#orttttt{
+    color:rgb(255, 255, 255);
+    margin-left: 150px;
+    font-size: 40px;
+}
+.get-started-button909090 {
+    margin-left: 35rem;
+    position: relative;
+    background-color: rgb(255, 0, 0);
+    
+    color: white;
+    border: none;
+    padding: 15px 30px;
+    cursor: pointer;
+    outline: none;
+    border-radius: 5px;
+    overflow: hidden;
+    transition: transform 0.3s ease-in-out;
+    margin-bottom: -10%;
+  }
+  .get-started-button909090:hover{
+    background-color: blue;
+  }

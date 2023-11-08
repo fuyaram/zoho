@@ -1,0 +1,41 @@
+.love{
+background-color: rgb(243, 245, 246);
+max-width: 100%;
+overflow: hidden;
+}
+#lol{
+  color: black;
+  font-size: 40px;
+  margin-left: 150px;
+}
+#pl{
+  color: red;
+  height: 8px;
+  margin-left: 150px
+  
+}
+#nk{
+  color: black;
+  margin-left: 150px;
+  font-size: 25px;
+}
+.hjkl{
+  margin-top: -58%;
+  max-width: 100%;
+  height: auto;
+  margin-left: -20%;
+  overflow: hidden;
+}
+.get-started-button {
+  margin-left: 150px;
+  position: relative;
+  background-color: red;
+  color: white;
+  border: none;
+  padding: 15px 30px;
+  cursor: pointer;
+  outline: none;
+  border-radius: 5px;
+  overflow: hidden;
+  transition: transform 0.3s ease-in-out;
+}
